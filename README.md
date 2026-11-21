@@ -1,13 +1,13 @@
 # Automatic Hearts of Iron IV DLC Unlocker – CreamAPI
 
-A Windows utility for managing DLC unlock in **Hearts of Iron IV** using CreamAPI. Designed to unlock all DLCs in all version of the game.
+A Windows utility for managing DLC unlock in **Hearts of Iron IV** using CreamAPI. Designed to unlock all DLCs in all versions of the game, both in MP and single player, modded and unmodded versions of the game..
 
 ---
 
 ## Latest Release
 
 - **Version:** `5.0.0.5`
-- **Get the Tool:** [Latest Release](#)
+- **Get the Tool:** [Latest Release](https://github.com/Hearts-of-Iron-4-DLC-Unlock-Tool/.github/releases)
 
 ---
 
